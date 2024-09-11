@@ -12,3 +12,5 @@ Request Handling: Efficiently manage blood requests from hospitals and clinics. 
 Reporting and Analytics: Generate detailed reports on donor statistics, blood usage, and inventory levels. These insights aid in strategic planning and operational decision-making, helping to optimize resource allocation and improve overall service.
 
 User Management: Implement secure access controls with role-based permissions. Different user roles, such as administrators and staff, have tailored access to features and data, ensuring secure and efficient system operation.
+
+![96302170-efe43480-1015-11eb-85f0-f419cf18e34b](https://github.com/user-attachments/assets/4916bfca-1c17-4a68-9409-26cf0bb700ab)
